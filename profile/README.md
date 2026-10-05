@@ -1,4 +1,4 @@
-## 📚 Practica los lenguajes de programación para DAM 1 y 2
+## 📚 Practica los Lenguajes de Programación para 1º DAM y 2º DAM
 
 Apuntes y ejercicios de programación en **Dart / Flutter, Java, Kotlin y Python**.
 
