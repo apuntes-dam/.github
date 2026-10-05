@@ -1,4 +1,4 @@
-## 📚 Apuntes DAM
+## 📚 Practica los lenguajes de programación para DAM 1 y 2
 
 Apuntes y ejercicios de programación en **Dart / Flutter, Java, Kotlin y Python**.
 
@@ -11,4 +11,4 @@ Apuntes y ejercicios de programación en **Dart / Flutter, Java, Kotlin y Python
 | Kotlin | https://apuntes-dam.github.io/kotlin-apuntes/ |
 | Python | https://apuntes-dam.github.io/python-apuntes/ |
 
-El repositorio principal es [apuntes-lenguajes](https://github.com/apuntes-dam/apuntes-lenguajes).
+⭐ Si te sirve, **sigue a la organización** y dale una estrella a [apuntes-lenguajes](https://github.com/apuntes-dam/apuntes-lenguajes).
