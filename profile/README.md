@@ -12,5 +12,6 @@ Apuntes y ejercicios de programación en **Dart / Flutter, Java, Kotlin y Python
 | Python | https://apuntes-dam.github.io/python-apuntes/ |
 | Git y GitHub | https://apuntes-dam.github.io/git-apuntes/ |
 | Android y apps móviles | https://apuntes-dam.github.io/android-apuntes/ |
+| HTML, CSS y JavaScript | https://apuntes-dam.github.io/web-apuntes/ |
 
 ⭐ Si te sirve, **sigue a la organización** y dale una estrella a [apuntes-lenguajes](https://github.com/apuntes-dam/apuntes-lenguajes).
