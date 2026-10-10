@@ -1,6 +1,6 @@
 ## 📚 Practica los Lenguajes de Programación para 1º DAM y 2º DAM
 
-Apuntes y ejercicios de programación en **Dart / Flutter, Java, Kotlin y Python**, y de las herramientas que se usan con ellos: **Git y GitHub**, **SQL**, **Android** y **HTML, CSS y JavaScript**.
+Apuntes y ejercicios de programación en **Dart / Flutter, Java, Kotlin y Python**, y de las herramientas que se usan con ellos: **Git y GitHub**, **SQL**, **Android** y **HTML, CSS y JavaScript**, y de **cómo gestiona los procesos un sistema operativo**.
 
 🌐 **Web: https://apuntes-dam.github.io/apuntes-lenguajes/**
 
@@ -14,5 +14,6 @@ Apuntes y ejercicios de programación en **Dart / Flutter, Java, Kotlin y Python
 | SQL y bases de datos | https://apuntes-dam.github.io/sql-apuntes/ |
 | Android y apps móviles | https://apuntes-dam.github.io/android-apuntes/ |
 | HTML, CSS y JavaScript | https://apuntes-dam.github.io/web-apuntes/ |
+| Procesos y planificación de la CPU | https://apuntes-dam.github.io/procesos-apuntes/ |
 
 ⭐ Si te sirve, **sigue a la organización** y dale una estrella a [apuntes-lenguajes](https://github.com/apuntes-dam/apuntes-lenguajes).
